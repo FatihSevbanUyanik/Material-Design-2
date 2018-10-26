@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuItemNavigationDrawer1"
+        android:title="navigation Drawer 1">
+    </item>
+
+    <item
+        android:id="@+id/menuItemNavigationDrawer2"
+        android:title="navigation Drawer 2">
+    </item>
+
+    <item
+        android:id="@+id/menuItemNavigationDrawer3"
+        android:title="navigation Drawer 3">
+    </item>
+
+    <item
+        android:id="@+id/menuItemAppBarLayout"
+        android:title="App Bar Layout">
+    </item>
+
+    <item
+        android:id="@+id/menuItemCollapsingToolbarLayout"
+        android:title="Collapsing Toolbar Layout">
+    </item>
+
+    <item
+        android:id="@+id/menuItemCollapsingToolAndNavDraw"
+        android:title="Collapsing Toolbar And Navigation Drawer">
+    </item>
+
+    <item
+        android:id="@+id/menuItemViewPager"
+        android:title="View Pager">
+    </item>
+
+    <item
+        android:id="@+id/menuItemFragmentPager"
+        android:title="Fragment Pager">
+    </item>
+
+    <item
+        android:id="@+id/menuItemTextTabBar"
+        android:title="Text Tab Bar">
+    </item>
+
+    <item
+        android:id="@+id/menuItemIconTabBar"
+        android:title="Icon Tab Bar">
+    </item>
+
+    <item
+        android:id="@+id/menuItemIconTextTabBar"
+        android:title="Icon Text Tab Bar">
+    </item>
+
+    <item
+        android:id="@+id/menuItemCustomTabBar"
+        android:title="Custom Tab Bar">
+    </item>
+
+</menu>
